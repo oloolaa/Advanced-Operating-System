@@ -1,4 +1,4 @@
-# Programming Projects for Advanced-Operating-System by Yinglue
+# Programming Projects for Advanced Operating System by Yinglue
 
 ## Description
 This repository is for the two programming projects in AOS course. Project 1 is the implementation of Chandy and Lamport’s protocol based on MAP protocol.
