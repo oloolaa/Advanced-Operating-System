@@ -9,7 +9,10 @@ MAP protocol is defined as a way to collect each node's state, and initiator can
 ```
 
 
-Project 2 is the implementation of Lamport's protocol.
+Project 2 is the implementation of Lamport's mutual exclusive protocol. Besides making logs, verification for mutual exclusion is needed.
+```
+>> ./verify.sh
+```
 
 
 ## To run the program
